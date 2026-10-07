@@ -12,3 +12,8 @@ Bienvenido/a a mi Wiki personal!
 2. Matrix
 3. Interstellar
 
+## Música favorita
+- Rock
+- Pop
+- Jazz
+
