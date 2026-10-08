@@ -61,5 +61,33 @@ Formas de transporte que utilizo regularmente:
 - **Email**: [maxialva804@gmail.com]
 
 ---
+## 🚀 Habilidades Técnicas
+
+### Lenguajes y Tecnologías Web
+
+#### HTML5
+Lenguaje de marcado fundamental para la estructura y semántica de páginas web. Domino la creación de documentos bien estructurados, accesibles y optimizados para SEO.
+
+#### CSS3
+Tecnología de estilos para diseñar y maquetar interfaces web. Tengo experiencia con layouts modernos (Flexbox, Grid), animaciones, responsive design y preprocesadores como SASS.
+
+#### JavaScript
+Lenguaje de programación versátil para desarrollo web. Especializado en manipulación del DOM, eventos, asincronía (Promises, async/await) y frameworks modernos como React.
+
+#### Git
+Sistema de control de versiones esencial para desarrollo colaborativo. Manejo flujos de trabajo, ramas, commits semánticos, y plataformas como GitHub y GitLab para gestionar proyectos.
+
+#### VS Code
+Editor de código avanzado y altamente personalizable. Utilizo extensiones productivas, debugging, control de versiones integrado y configuración optimizada para desarrollo web eficiente.
+
+---
+
+### Soft Skills
+
+- **Resolución de problemas** - Análisis lógico y búsqueda de soluciones efectivas
+- **Comunicación** - Capacidad de expresar ideas técnicas de forma clara
+- **Aprendizaje continuo** - Interés constante en nuevas tecnologías y mejora personal
+- **Trabajo en equipo** - Colaboración fluida y respeto hacia diferentes perspectivas
+- **Organización** - Gestión eficiente del tiempo y priorización de tareas
 
 *Última actualización: 2026-10-08*
