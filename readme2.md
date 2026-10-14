@@ -89,5 +89,3 @@ Editor de código avanzado y altamente personalizable. Utilizo extensiones produ
 - **Aprendizaje continuo** - Interés constante en nuevas tecnologías y mejora personal
 - **Trabajo en equipo** - Colaboración fluida y respeto hacia diferentes perspectivas
 - **Organización** - Gestión eficiente del tiempo y priorización de tareas
-
-*Última actualización: 2026-10-08*
