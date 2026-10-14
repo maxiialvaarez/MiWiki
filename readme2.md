@@ -2,7 +2,6 @@
 
 Bienvenido/a a mi espacio de conocimiento compartido. Esta wiki documenta mis intereses, habilidades y experiencias.
 
----
 
 ## 📋 Sobre Mí
 
