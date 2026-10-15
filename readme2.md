@@ -89,4 +89,15 @@ Editor de código avanzado y altamente personalizable. Utilizo extensiones produ
 - **Trabajo en equipo** - Colaboración fluida y respeto hacia diferentes perspectivas
 - **Organización** - Gestión eficiente del tiempo y priorización de tareas
 
+### Mis objetivos
+- Aprender y mejorar mi lenguaje de programación favorito
+- Mejorar mi habilidad para trabajar en equipo
+- Mejorar mi capacidad para resolver problemas de manera efectiva
+
+Enllace a una web que utilizo para aprender: https://www.codecademy.com/
+
+---
+
+**Me gusta leer libros, escuchar música y ver películas.**
+
 ![alt text](imatge.jpg)
