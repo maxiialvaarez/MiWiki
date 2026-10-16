@@ -100,4 +100,6 @@ Enllace a una web que utilizo para aprender: https://www.codecademy.com/
 
 **Me gusta leer libros, escuchar música y ver películas.**
 
+---
+
 ![alt text](imatge.jpg)
